@@ -1,0 +1,4 @@
+-Pilotti sovelluksen l‰hdekoodi.
+-Ei sis‰ll‰ visuaalisia ja ‰‰ni elementtej‰.
+-Ei sis‰ll‰ Dialogue systeemi‰, koska se on maksullinen liit‰nn‰inen. (https://www.assetstore.unity3d.com/en/#!/content/11672)
+-

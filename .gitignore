@@ -1,0 +1,15 @@
+*.DS_Store
+*.csproj
+*.pidb
+*.exe
+*.sln
+*.suo
+*.unityproj
+*.userprefs
+Win_Data/
+obj/
+Build/
+Temp/
+Library/
+Computer.app/
+unity/Build/
